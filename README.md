@@ -2,12 +2,15 @@
 
 # Ramon John L. Dela Cruz
 
-**BS-MS Computer Science Candidate | De La Salle University**  
-*Medical Computer Vision · Deep Learning · Test-Time Adaptation*
+**BS-MS Computer Science Candidate | De La Salle University**
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=1500&color=58A6FF&center=true&vCenter=true&width=550&height=45&lines=Medical+Computer+Vision;Deep+Learning;Test-Time+Adaptation" alt="Typing SVG" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=1200&color=58A6FF&center=true&vCenter=true&width=550&height=40&lines=Medical+Computer+Vision;Deep+Learning;Test-Time+Adaptation">
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=1200&color=0969DA&center=true&vCenter=true&width=550&height=40&lines=Medical+Computer+Vision;Deep+Learning;Test-Time+Adaptation">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=1200&color=0969DA&center=true&vCenter=true&width=550&height=40&lines=Medical+Computer+Vision;Deep+Learning;Test-Time+Adaptation" alt="Medical Computer Vision · Deep Learning · Test-Time Adaptation" />
+</picture>
 
 </div>
 
@@ -105,9 +108,17 @@
 ### Activity & Metrics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MonZenn&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="GitHub Stats" />
-  <br><br>
-  <img src="https://streak-stats.demolab.com?user=MonZenn&theme=github-dark-blue&hide_border=true&background=0d1117&fire=58a6ff&ring=58a6ff&currStreakLabel=58a6ff" alt="GitHub Streak" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=MonZenn&show_icons=true&bg_color=0d1117&border_color=30363d&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=MonZenn&show_icons=true&bg_color=ffffff&border_color=e1e4e8&title_color=0969da&icon_color=0969da&text_color=24292f">
+    <img height="165" src="https://github-readme-stats.vercel.app/api?username=MonZenn&show_icons=true&bg_color=ffffff&border_color=e1e4e8&title_color=0969da&icon_color=0969da&text_color=24292f" alt="GitHub Stats" />
+  </picture>
+  &nbsp;&nbsp;
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=MonZenn&background=0d1117&border=30363d&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakNum=f0f6fc&sideNums=f0f6fc&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e">
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=MonZenn&background=ffffff&border=e1e4e8&stroke=e1e4e8&ring=0969da&fire=0969da&currStreakNum=24292f&sideNums=24292f&currStreakLabel=0969da&sideLabels=656d76&dates=656d76">
+    <img height="165" src="https://streak-stats.demolab.com?user=MonZenn&background=ffffff&border=e1e4e8&stroke=e1e4e8&ring=0969da&fire=0969da&currStreakNum=24292f&sideNums=24292f&currStreakLabel=0969da&sideLabels=656d76&dates=656d76" alt="GitHub Streak" />
+  </picture>
 </div>
 
 ---
@@ -116,6 +127,8 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ramon-john-dela-cruz-442176446)
+<a href="https://www.linkedin.com/in/ramon-john-dela-cruz-442176446" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="38" alt="Connect with Ramon John on LinkedIn" />
+</a>
 
 </div>
