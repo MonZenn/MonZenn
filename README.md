@@ -7,7 +7,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=2600&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Medical+Computer+Vision;Deep+Learning;Test-Time+Adaptation" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=1500&color=58A6FF&center=true&vCenter=true&width=550&height=45&lines=Medical+Computer+Vision;Deep+Learning;Test-Time+Adaptation" alt="Typing SVG" />
 
 </div>
 
@@ -74,7 +74,7 @@
   </ul>
 </details>
 
-<details>
+<details open>
   <summary><a href="https://github.com/MonZenn/Note-ationWeb"><b>Note-ation</b></a> — <code>Web Application</code> · <i>Deep Learning Optical Music Recognition</i></summary>
   <br>
   <blockquote>
@@ -87,7 +87,7 @@
   </ul>
 </details>
 
-<details>
+<details open>
   <summary><a href="https://github.com/MonZenn/MDCloud"><b>MDCloud</b></a> — <code>Platform Service</code> · <i>Cloud Architecture &amp; Distributed Workflows</i></summary>
   <br>
   <blockquote>
@@ -105,24 +105,9 @@
 ### Activity & Metrics
 
 <div align="center">
-  <table border="0" cellpadding="0" cellspacing="0">
-    <tr align="center">
-      <td valign="middle" align="center">
-        <img height="180" src="https://github-readme-stats.vercel.app/api?username=MonZenn&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="GitHub Stats" />
-      </td>
-      <td valign="middle" align="center">
-        <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MonZenn&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Top Languages" />
-      </td>
-    </tr>
-  </table>
-  <br>
-  <table border="0" cellpadding="0" cellspacing="0">
-    <tr align="center">
-      <td valign="middle" align="center">
-        <img height="180" src="https://streak-stats.demolab.com?user=MonZenn&theme=github-dark-blue&hide_border=true&background=0d1117&fire=58a6ff&ring=58a6ff&currStreakLabel=58a6ff" alt="GitHub Streak" />
-      </td>
-    </tr>
-  </table>
+  <img src="https://github-readme-stats.vercel.app/api?username=MonZenn&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="GitHub Stats" />
+  <br><br>
+  <img src="https://streak-stats.demolab.com?user=MonZenn&theme=github-dark-blue&hide_border=true&background=0d1117&fire=58a6ff&ring=58a6ff&currStreakLabel=58a6ff" alt="GitHub Streak" />
 </div>
 
 ---
