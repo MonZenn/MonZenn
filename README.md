@@ -4,7 +4,9 @@
     <b>BS-MS Computer Science</b> · <b>De La Salle University</b><br>
     <i>Medical Computer Vision · Deep Learning · Test-Time Adaptation</i>
   </p>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&pause=1200&color=58A6FF&center=true&vCenter=true&width=550&lines=Medical+Computer+Vision+%7C+Deep+Learning;Test-Time+Adaptation+in+Ultrasound;Open-Access+Tooling+%26+Reproducible+AI" alt="Typing SVG" />
+  
+  <br>
+  <img src="https://raw.githubusercontent.com/MonZenn/MonZenn/main/terminal.svg" width="100%" alt="Developer Terminal" />
 </div>
 
 ---
@@ -55,7 +57,7 @@
 
 - [**MDCloud**](https://github.com/MonZenn/MDCloud) `Platform Service`  
   *Cloud Architecture · Systems*  
-  Cloud-native deployment platform and service engineered for structured data handling and distributed file management.
+  Cloud-native platform and deployment service engineered for structured data handling and distributed file management.
 
 ---
 
