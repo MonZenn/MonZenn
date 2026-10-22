@@ -111,12 +111,12 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=MonZenn&show_icons=true&bg_color=0d1117&border_color=30363d&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9">
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=MonZenn&show_icons=true&bg_color=ffffff&border_color=e1e4e8&title_color=0969da&icon_color=0969da&text_color=24292f">
-    <img width="395" height="165" src="https://github-readme-stats.vercel.app/api?username=MonZenn&show_icons=true&bg_color=ffffff&border_color=e1e4e8&title_color=0969da&icon_color=0969da&text_color=24292f" alt="GitHub Stats" />
+    <img width="347" height="145" src="https://github-readme-stats.vercel.app/api?username=MonZenn&show_icons=true&bg_color=ffffff&border_color=e1e4e8&title_color=0969da&icon_color=0969da&text_color=24292f" alt="GitHub Stats" />
   </picture>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=MonZenn&background=0d1117&border=30363d&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakNum=f0f6fc&sideNums=f0f6fc&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e">
     <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=MonZenn&background=ffffff&border=e1e4e8&stroke=e1e4e8&ring=0969da&fire=0969da&currStreakNum=24292f&sideNums=24292f&currStreakLabel=0969da&sideLabels=656d76&dates=656d76">
-    <img width="419" height="165" src="https://streak-stats.demolab.com?user=MonZenn&background=ffffff&border=e1e4e8&stroke=e1e4e8&ring=0969da&fire=0969da&currStreakNum=24292f&sideNums=24292f&currStreakLabel=0969da&sideLabels=656d76&dates=656d76" alt="GitHub Streak" />
+    <img width="368" height="145" src="https://streak-stats.demolab.com?user=MonZenn&background=ffffff&border=e1e4e8&stroke=e1e4e8&ring=0969da&fire=0969da&currStreakNum=24292f&sideNums=24292f&currStreakLabel=0969da&sideLabels=656d76&dates=656d76" alt="GitHub Streak" />
   </picture>
 </div>
 
